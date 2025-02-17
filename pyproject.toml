@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pytest_parameterization"
+version = "0.0.0"
+description = "Demo project for the guide on parameterizing Pytest tests with Allure Report."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.9"
+]
+dependencies = [
+    # Put the project's production dependencies here:
+
+]
+
+[project.optional-dependencies]
+dev = [
+    # Put the project's dev dependencies here:
+    "allure-pytest",
+    "flake8",
+    "flake8-builtins",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["test"]

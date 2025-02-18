@@ -1,6 +1,6 @@
-# Integrating screenshots in Allure Report with Pytest and Selenium
+# Allure Report with Pytest parameterization
 
-This repository is a part of Allure Report documentation and contains code examples for integrating screenshots in Allure Report with Pytest and Selenium. You can find the original documentation:
+This repository is a part of Allure Report documentation and contains code examples for integrating Allure Report with Pytest parameterized tests. You can find the original documentation:
 
 - [English version](https://allurereport.org/docs/guides/pytest-parameterization/)
 - [Spanish version](https://allurereport.org/es/docs/guides/pytest-parameterization/)

@@ -52,13 +52,13 @@ Alternatively:
 1. Activate the virtual environment (Linux and MacOS):
 
     ```shell
-    source venv/bin/activate 
+    source venv/bin/activate
     ```
-    
+
     OS Windows:
 
-    ```shell
-    venv\Scripts\activate
+    ```powershell
+    .\venv\Scripts\Activate.ps1
     ```
 
 1. Install the packages used in the project:
@@ -81,4 +81,4 @@ Alternatively:
     allure serve -p <port-of-your-choice>
     ```
 
-1. Browse Allure Report page on `http://127.0.0.1/<port-of-your-choice>`
+1. Browse the Allure Report page on `http://127.0.0.1:<port-of-your-choice>`

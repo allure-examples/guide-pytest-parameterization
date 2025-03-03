@@ -43,7 +43,7 @@ For OS Windows:
 ```
 
 Alternatively:
-1. Create a Python virtual environment manually: activate it, and install the packages used in the project:
+1. Create a Python virtual environment manually:
 
     ```shell
     python -m venv venv

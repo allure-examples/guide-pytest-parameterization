@@ -32,7 +32,7 @@ This repository is a part of Allure Report documentation and contains code examp
 
 ## Run tests
 
-The repository provides with automatic scripts that install the virtual environment, necessary packages, and run the tests. Run the script correspondind to your operating system. For Linux and MacOS:
+The repository provides automatic scripts that install the virtual environment, and necessary packages, and run the tests. Run the script that corresponds to your operating system. For Linux and MacOS:
 
 ```
 ./run.sh
